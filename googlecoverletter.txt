@@ -1,0 +1,62 @@
+To whom it may concern,
+
+I am writing to apply for a Software Engineering position within your
+company. After appreciating and utilising impressive Google tools such
+as `Scholar' and `Book' during my PhD candidature, I have decided that
+I would love to be involved in the exciting future of Google, and in
+the interesting challenges that await.
+
+I believe I match the software engineer position you describe
+perfectly. I work best on difficult and demanding problems which have
+in the past covered a number of the areas of experience you mention
+(Linux, C++, distributed systems, network programming). I graduated at
+the top of my class from my Bachelor degree in 2002 (6.87/7 GPA) and my PhD
+dissertation is currently under examination. My PhD topic focused on
+modelling programs' (distributed simulations) behaviour for intrusion
+prevention and detection.
+
+I have admired and been amazed by Google for years from Australia, and
+since travelling to America, am keen to expand my horizons and be a
+part of Google's cutting-edge developments. I believe the skills in
+critical analysis, motivation and self-teaching I have acquired during
+my PhD candidature make me a valuable addition to Google.
+
+I would love the opportunity to discuss my ideas for improvements to
+existing Google tools as well as new developments. I attach my resume
+for your consideration and look forward to hearing back from you.
+
+Sincerely,
+
+David Andrews
+
+To whom it may concern,
+
+I am writing to apply for a Software Engineering position within your
+company. After appreciating and utilising impressive Google tools such
+as Scholar and Book during my PhD candidature, I have decided that
+I would love to be involved in the exciting future of Google, and in
+the interesting challenges that await.
+
+I believe I match the software engineer position you describe
+perfectly. I work best on difficult and demanding problems which have
+in the past covered a number of the areas of experience you mention
+(Linux, C++, distributed systems, network programming). I graduated at
+the top of my class from my Bachelor degree in 2002 (6.87/7 GPA) and
+have recently defended my PhD topic and submitted my dissertation. My
+PhD topic focused on modelling programs' (distributed simulations)
+behaviour for intrusion prevention and detection.
+
+I have admired and been amazed by Google for years, and am keen to
+expand my horizons and be a part of Google's cutting-edge
+developments. I believe the skills in critical analysis, motivation
+and self-teaching I have acquired during my PhD candidature make me a
+valuable addition to Google.
+
+I would love the opportunity to discuss my ideas for improvements to
+existing Google tools as well as new developments.  I attach my resume
+for your consideration and look forward to hearing back from you.
+
+Sincerely,
+
+David Andrews
+

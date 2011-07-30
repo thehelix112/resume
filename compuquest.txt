@@ -1,0 +1,41 @@
+contract position, blurgh.
+
+To whom it may concern,
+
+I am writing to apply for the advertised C++ Developer (with UNIX
+experience) position. I have always maintained a strong personal
+interest in Unix operating systems, which I have heavily used for both
+my formal and informal education. Having recently completed my
+research and development doctoral degree on the improvement of
+intrusion detection and prevention technologies, I have decided that I
+would like to continue my involvement in computer security at
+Symantec.
+
+I believe I match the software engineering position described on your
+careers website perfectly. I have 5 years experience as lead engineer
+on prototype software projects (50-60K Lines Of Code), delivering new
+technologies within both university and government
+environments. Additionally, involvement with commercial counterparts
+has provided me with a firm understanding of commercial software
+development procedures. I also have an avid interest in program
+optimisation and algorithm analysis, which I have applied as part of
+my PhD project.
+
+I am an internationally published author, including two journal-level
+publications for the Australian Defence Force, numerous papers on the
+security of military-oriented distributed simulations, and two
+significant dissertations during my university degrees. I am also
+comfortable giving both educational presentations (university
+lecturing) and marketing demonstrations (government grant product
+delivery).
+
+I have had a keen interest in computer security for over 10 years, and
+since travelling to America, am looking forward to expanding my
+horizons and making a difference in the computer security industry. I
+would love the opportunity to meet and discuss what my employment can
+bring to Toshiba. I have attached my resume for your consideration and
+look forward to hearing back from you.
+
+Sincerely,
+
+David Andrews

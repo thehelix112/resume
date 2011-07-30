@@ -1,0 +1,40 @@
+To whom it may concern,
+
+I am writing to apply for the advertised Linux Software Engineer
+position (Job Code 851-14-0306). I have always maintained a strong
+personal interest in Linux and open source software, which has been a
+guiding force in both my formal and informal education. Having
+recently completed my research and development doctoral degree on
+program behaviour modelling for Linux programs, I have decided that I
+would like to continue my involvement in Linux at Lantronix.
+
+I believe I match the software engineer position described on
+Monster.com. I have used Linux as my primary operating system for more
+than 5 years during both my honours and doctoral studies, along with
+standard project management and documentation tools (CVS,
+automake/autoconf, LaTeX). I completed the networking stream during my
+undergraduate degree and later tutored several networking courses for
+a number of semesters. I have also been a technical consultant for a
+firm responsible for several small-medium networks with around 100
+desktops, and 10 Linux servers. I have been involved in medium-scale
+C++ software developments (50-60K Lines Of Code) with the university
+and government domains.
+
+I am an internationally published author, including two journal-level
+publications for the Australian Defence Force, numerous papers on the
+security of military-oriented distributed simulations, and two
+significant dissertations during my university degrees. I am also
+comfortable giving both educational presentations (university
+lecturing) and marketing demonstrations (government grant product
+delivery).
+
+I have had a keen interest in computer security for over 10 years, and
+since travelling to America, am looking forward to expanding my
+horizons and making a difference in the computer industry. I would
+love the opportunity to meet and discuss what my employment can bring
+to Lantronix. I have attached my resume for your consideration and look
+forward to hearing back from you.
+
+Sincerely,
+
+David Andrews

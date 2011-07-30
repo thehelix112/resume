@@ -1,0 +1,75 @@
+1. A degree in Computer Sci. or similar relevant University degree
+2. Superior communication skills
+3. At least 5 years of C ++, C or Java Greenfield coding commercial experience
+4. A mind that loves learning and adapting to changing and cutting edge technologies.
+5. Great university results
+6. A true passion and desire to produce quality coding and products that aren\u2019t out there at present
+7. A stand out CV that clearly articulates why you are so good and deserve a shot at the big time!
+
+Dear Mr. Hathron,
+
+I am writing to apply for the C++ Software Engineer position
+advertised on Seek.com.au.  I am very excited about this opportunity
+and would like to explain why I think I am the best person for the
+job.
+
+I have recently completed by PhD in computer security, and graduated
+from my undergraduate computing degree with a Grade Point Average of
+6.87 out of 7 (2 Distinctions, the rest High Distinctions).
+
+During my PhD and prior work experience, I have given presentations to
+four Generals within the defence department, the top academic
+officials at my university, as well as at several conferences
+internationally.  I have excellent written skills, having published
+numerous papers, technical reports, and academic dissertations.
+
+I have been using C++ full-time for 5 years and have been Lead
+Developer in several medium-scale projects (50-60 thousand lines of
+code) within defence and academia.  During these projects I have
+always placed crucial emphasis on correct software engineering
+procedures, and good coding practices.  I have also maintained a keen
+interest in program optimisation and efficiency.
+
+I thrive on an environment where learning is encouraged, new problems
+are constantly encountered, and new skills are required.  I am a very
+strong and motivated self-learner, having taught myself a range of
+computing technologies and skills.
+
+Additionally, I have spent more than 6 months in the USA, in fact as I
+write this, I am in California.  This means that I am acclimatized to
+the environment, customs and culture here, and that your client will
+loose less time and money due to `settling in'.
+
+
+I believe I am an excellent match
+for this position.  I have just completed my doctoral (PhD) studies,
+which has provided me with several years experience in analytical and
+critical thinking, as well as excellent written communication skills.
+
+My verbal communication skills I have developed since I was 13 when I
+began taking gymnastics lessons.  Since that time I have had support
+jobs, tutored and lectured for my University, delivered government
+grant products to the Australian Defence force, and presented at
+multiple international conferences.
+
+I have used Linux every day for the last 5 years, for my workstation,
+studies, and as part of my work experience maintaining a 6-server
+small Linux network.  I completed all the C and C++ courses during my
+Bachelors degree, for which I obtained consistent top marks (resulting
+in a 6.87/7 GPA for this degree).  I have since been involved in
+several small-to-medium C++ projects for both the industry, and the
+Australian government.
+
+During these projects I have always placed strong emphasis on correct
+software engineering procedures, and good coding practices.  I have
+also always maintained a keen interest in program optimisation and
+efficiency which I have applied to my past projects.
+
+I have very little experience with ARM architectures, however I am a
+fast learner, and I am keen to develop and expand my areas of
+expertise and experience.  I have attached my resume for your
+consideration and look forward to hearing back from you.
+
+Sincerely,
+
+David Andrews
