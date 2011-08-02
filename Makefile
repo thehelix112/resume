@@ -4,4 +4,4 @@ all : resume.tex
 	ps2pdf resume.ps
 
 view: all
-	gpdf resume.pdf
+	evince resume.pdf

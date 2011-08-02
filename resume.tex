@@ -1,9 +1,11 @@
 % LaTeX file for resume 
 % This file uses the resume document style (res.sty)
-
 \documentclass[margin]{res} 
+%%\usepackage{mdwlist}
+%%\usepackage{enumitem}
 \setlength{\topmargin}{0in}
 \setlength{\textheight}{10.5in}
+
 \textwidth=5.2in % increase textwidth to get
 		 % smaller right margin
 \sectionwidth=1.5in
@@ -27,7 +29,7 @@
 %\bigskip
 
 \section{OBJECTIVE}
-A challenging and dynamic position with an enthusiastic, innovative and motivated development team.
+A challenging and dynamic position with an innovative, motivated development team.
 %An interesting computer security development or research opportunity.
 %Heavy development position 
 %Security Developer
@@ -35,11 +37,12 @@ A challenging and dynamic position with an enthusiastic, innovative and motivate
 
 
 \section{SKILLS}
-\begin{list}{\labelitemi}{\leftmargin=1em}
-\item Highly proficient in C++ and C.
-\item Highly detailed knowledge of computer security, Linux, Windows internals and x86.
-\item Working knowledge of open-source development tools, Lua, Bash Scripting, NoSQL
-  databases, MySQL, Protocol Buffers, ZeroMQ.
+\begin{list}{}{\leftmargin=0em \topsep=0pt \partopsep=0pt \parsep=2.5pt}
+  \item Highly proficient in C++ and C.
+  \item Highly detailed knowledge of computer security, Linux, Windows internals and x86.
+  \item Working knowledge of open-source tool chain, Lua, Bash Scripting, NoSQL
+    databases, MySQL, Protocol Buffers, ZeroMQ, \LaTeX{} documentation.
+  \item Previously worked with Perl, Python, Java, HTML, Javascript, ActionScript (3.0).
 \end{list}
 
 %{\bf Programming:} C++ (preferred), Java, C, PHP, PERL, Javascript, Bash, Python (minimal). \\
@@ -55,35 +58,46 @@ A challenging and dynamic position with an enthusiastic, innovative and motivate
 
 \section{EXPERIENCE}
 \noindent
-{\bf Director of Development}, previously Sr. Software Engineer. \\ 
-NeuralIQ Inc., Santa Monica, CA {\em (2006-present)} \\ 
-\begin{itemize}
+{\bf Director of Development,} previously Sr. Software Engineer. \\ 
+NeuralIQ Inc., Santa Monica, CA {\em (2006-present)}
+%\begin{list}{\labelitemi}{\leftmargin=1em}
+\begin{list}{\labelitemi}{\leftmargin=1.5em \topsep=5pt \partopsep=0pt \parsep=2.5pt}
   \item Led the development team through 3 version releases, including
     incremental feature additions, as well as large architectural
     changes.  Strong emphasis on performance and stability as the
     software was deployed on appliances.
   \item Instituted and conducted bi-weekly workflow reviews to
     continuously iterate on and improve the development process.
+  \item Trained over 15 new employees on C, C++ and computer security
+    during explosive company growth from 3 developers to almost 30
+    developers.
   \item Project owner of a real-time hypervisor-based OS (Windows and
-    Linux) data collection module (Patent Pending.)  This module
-    collects information about any function call (kernel, syscall or
-    userland) on 100\% unmodified guest OSs and is on-the-fly
-    configurable.
+    Linux) data collection module (Patent Pending.)  This runtime
+    configurable module collects information about any function call
+    (kernel, syscall or userland) and network packets on 100\%
+    unmodified guest OSs.
   \item Project owner of a real-time OS analysis engine supported by a
     custom graph-based simulation database (Patent Pending).  This
     engine employs graph-based pattern matching to track OS behaviour
     through time.
-  \item Project owner of a multi-threaded daemon responsible for
-    serving individual and publish/subscribe requests for analysis
-    data.
+  \item Project owner of a high-performance multi-threaded daemon
+    responsible for serving individual and publish/subscribe requests
+    for analysis data.
   \item Project owner of a dynamically-sizeable buffering library
     providing in-memory, and file-backed buffers for streaming
     data between threads or processes.
   \item Project owner of a file caching library designed for
-    high-performance random access (\string~8x faster than {\em lseek() +
-      read()}) and sequential writing (\string~2x faster than {\em
-      write()}).
-\end{itemize}
+    high-performance random access (\string~8x faster than {\em
+      lseek() + read()}) and sequential writing (\string~2x faster
+    than {\em write()}).
+\end{list}
+
+{\bf Software Engineer.} \\
+Defence Science Technology Organisation, Vic, Australia {\em (2002-2005)}
+\begin{list}{\labelitemi}{\leftmargin=1.5em \topsep=5pt \partopsep=0pt \parsep=2.5pt}
+  \item Developed interoperability middleware for distributed simulations.
+  \item Engineered an optimizing scheduler for Australian Naval activities.
+\end{list}
 
 %% {\bf IT Consultant} \\
 %% R G Technologies, Victoria, Australia 2002-Present \\
@@ -91,13 +105,6 @@ NeuralIQ Inc., Santa Monica, CA {\em (2006-present)} \\
 %%   \item Support of small Linux-based network (3 sites, 6 servers, 100+ workstations).
 %%   \item Adaptation and customisation of open-source web groupware.
 %% \end{itemize}
-
-{\bf Software Engineer.} \\
-Defence Science Technology Organisation, Vic, Australia {\em (2002-2005)} \\
-\begin{itemize}
-  \item Developed interoperability middleware for distributed simulations.
-  \item Engineered an optimizing scheduler for Australian Naval activities.
-\end{itemize}
 
 %{\bf Lecturer / Tutor.} \\
 %University of Ballarat, Vic, Australia {\em (2000-2004)}  \\
@@ -117,27 +124,28 @@ Defence Science Technology Organisation, Vic, Australia {\em (2002-2005)} \\
 \section{EDUCATION}
 
 {\bf Doctorate of Philosophy.} \\
-University of Ballarat, Vic, Australia {\em (2002-2006)} \\
-\begin{itemize}
-\item Thesis on computer security via abstracted program behaviour modelling.
-\item C++ demonstrating project (Refer to Open Source project {\em
-  matis} below).
-\end{itemize}
+University of Ballarat, Vic, Australia {\em (2002-2006)}
+\begin{list}{\labelitemi}{\leftmargin=1.5em \topsep=5pt \partopsep=0pt \parsep=2.5pt}
+  \item Thesis on computer security via abstracted program behaviour modelling.
+  \item C++ demonstrating project (Refer to Open Source project {\em
+    matis} below).
+\end{list}
 
 {\bf Bachelor of Computing (Hons).} \\
-University of Ballarat, Vic, Australia {\em (1999-2002)} \\
-\begin{itemize}
-\item 1st Class Honours, thesis on distributed simulation security.
-\item Heavy focus on programming (C and C++) and internetworking.
+University of Ballarat, Vic, Australia {\em (1999-2002)}
+\begin{list}{\labelitemi}{\leftmargin=1.5em \topsep=5pt \partopsep=0pt \parsep=2.5pt}
+  \item 1st Class Honours, thesis on distributed simulation security.
+  \item Heavy focus on programming (C and C++) and internetworking.
 %\item Completed networking track: TCP/IP-focus.
 %\item 6.87/7 GPA.
-\end{itemize}
+\end{list}
 
 
 \section{OPEN SOURCE}
-\begin{list}{\labelitemi}{\leftmargin=1em}
+\begin{list}{}{\leftmargin=0em \topsep=0pt \partopsep=0pt \parsep=2.5pt}
 \item {\bf doctors}: PHP bibliography management webapp.  {\em http://code.google.com/p/doctors/}
-\item {\bf matis}: C++ PhD project.  Program behaviour anomaly detector for distributed simulations.  {\em http://code.google.com/p/matis/}
+\item {\bf matis}: Program behaviour anomaly detector for distributed simulations.  \\
+  {\em http://code.google.com/p/matis/}
 \end{list}
 
 %\section{Distinctions}
