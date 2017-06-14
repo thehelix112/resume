@@ -2,11 +2,12 @@ To whom it may concern,
 
 I am writing to apply for the advertised Linux Software Engineer
 position (Job Code 851-14-0306). I have always maintained a strong
-personal interest in Linux and open source software, which has been a
-guiding force in both my formal and informal education. Having
-recently completed my research and development doctoral degree on
-program behaviour modelling for Linux programs, I have decided that I
-would like to continue my involvement in Linux at Lantronix.
+personal interest in Linux (and other UNIX derivative systems) as well
+as open source software, which has been a guiding force in both my
+formal and informal education. Having recently completed my research
+and development doctoral degree on program behaviour modelling for
+Linux programs, I have decided that I would like to continue my
+involvement in Linux at Lantronix.
 
 I believe I match the software engineer position described on
 Monster.com. I have used Linux as my primary operating system for more

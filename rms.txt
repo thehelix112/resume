@@ -1,0 +1,21 @@
+To whom it may concern,
+
+I am writing to apply for the C++ Software Engineer position
+advertised on Dice.com.  I believe I match the job description
+perfectly.  I have recently finished my doctoral degree in computer
+science, and I have been involved in several industrial C++ software
+engineering projects.  These projects involved modelling and
+simulation for the Australian Defence Force, and were built using
+standardised object-oriented analysis and design.
+
+I am a highly motivated self-learner and have excellent
+communication skills: I have lectured a Masters course in C# and .NET,
+and have tutored numerous other networking (including COM
+technologies), database (primarily SQL) and programming courses.
+
+Please find my resume attached for your consideration, and I look
+forward to hearing back from you.
+
+Yours Sincerely,
+
+David Andrews
