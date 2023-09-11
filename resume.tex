@@ -9,47 +9,36 @@
 \textwidth=5.7in % increase textwidth to get
          % smaller right margin
 \sectionwidth=1.0in
-%  Use \documentstyle[margin,newcent]{res} to get New Century Schoolbook
-%                                                         postscript font
-% and \documentstyle[margin]{res} for default (Computer Modern) font
-% the margin option causes section titles to appear to the left of
-% the body text
+
 
 \begin{document}
 
-\name{Dr. David Andrews} % the \\[12pt] adds a blank line after name
+\name{Dr. David Andrews}
 
 \address{david.andrews112@gmail.com \ \ \ (949) 633-0588}
-
-%\address{{\bf Permanent Address} \\ 35 Weeroona Rd \\ Bolwarrah, VIC 3350 \\ Australia \\
-%        +61 (3) 5334-0337 }
-
 
 \begin{resume}
 %\bigskip
 
 \section{OBJECTIVE}
 A challenging and dynamic engineering leadership position with an innovative, motivated team.
-%An interesting computer security development or research opportunity.
-%Heavy development position
-%Security Developer
-%Security Product Developer, or Researcher
 
 
 \section{SKILLS}
 \begin{list}{}{\leftmargin=0em \topsep=0pt \partopsep=0pt \parsep=2.5pt}
-  \item Architecting, building and operationalizing distributed systems at scale (130Tbps CDN, 330M hours/month OTT video service).
+  \item Leading, growing and advancing large engineering teams whose work comes together to produce a global service 
+  \item Architecting, building and operationalizing distributed systems at scale (~18,000 server global CDN).
   \item Proficient in C++ and C.
   \item Working knowledge of computer security, Linux, Windows internals and x86\_64.
   \item Working knowledge of open-source tool chains, internetworking,
-    Golang, Lua, Bash, Python, various NoSQL and relational databases, \LaTeX{} documentation.
+    Bash, Python, Lua, Golang, various NoSQL and relational databases, \LaTeX{} documentation.
   \item Previously worked with Perl, PHP, HTML, Javascript.
   \item Architectural understanding of cloud and k8s concepts and systems.
 \end{list}
 
-%{\bf Programming:} C++ (preferred), Java, C, PHP, PERL, Javascript, Bash, Python (minimal). \\
-%{\bf Environments:} Linux/Unix (preferred), Windows, Sun OS CDE (minimal). \\
-%{\bf Networking:} Novell, TCP/IP.
+%{\bf Programming:} C++ (preferred), C, PHP, PERL, Javascript, Bash, Python (minimal). \\
+%{\bf Environments:} Linux/Unix (preferred), Windows. \\
+%{\bf Protocols:} TCP/UDP/IP, HTTP (1.1, 2, 3), DNS.
 
 
 %\section{COMMUNICATION SKILLS}
@@ -61,11 +50,25 @@ A challenging and dynamic engineering leadership position with an innovative, mo
 \section{EXPERIENCE}
 \noindent
 
+{\bf Vice President, Engineering}\\
+Edgio Inc (formerly Yahoo EdgeCast), CA {\em (2022-present)}
+%\begin{list}{\labelitemi}{\leftmargin=1em}
+\begin{list}{\labelitemi}{\leftmargin=1.5em \topsep=5pt \partopsep=0pt \parsep=2.5pt}
+  \item Led both Infrastructure and Engineering teams through the transition from Verizon to Edgio.
+  \item Designed and contributed to real-time global configuration system (~5 second global propagation)
+  \item Defined and implemented new change management processes and procedures
+  \item Primary technical subject matter expert for PCI DSS, SOC2, ISO27K1 certifications
+  \item High Priority Incident 'quarterback' (incident commander) (1 of 2)
+  \item Designed and contributed to obseravability and operational improvements for core services
+  \item Key leader in right-sizing initiatives across engineering and infrastructure
+\end{list}
+
 {\bf Sr Director, Engineering and Chief Architect,} previously Content Delivery Network Architect and Evangelist.\\
-Verizon Digital Media Services, Los Angeles, CA {\em (2016-present)}
+Yahoo EdgeCast (formerly Verizon Digital Media Services), Los Angeles, CA {\em (2016-2022)}
 %\begin{list}{\labelitemi}{\leftmargin=1em}
 \begin{list}{\labelitemi}{\leftmargin=1.5em \topsep=5pt \partopsep=0pt \parsep=2.5pt}
   \item Engineering responsibility for 2/3rds of the core Content Delivery Network (CDN) team, covering core platforms, SRE, traffic management.
+  \item Founding member of the Oath Inc./Yahoo Senior Tech Council
   \item Key driver for product decisions and architecture (analytics, configuration management, customer dev tooling: SDK, CLI, APIs, IaC).
   %\item Coordination and primary stakeholder for engagement with central support teams.
   \item Providing architectural and operational guidance to both CDN and video streaming engineering and operational teams.
@@ -96,17 +99,17 @@ CounterTack (formerly NeuralIQ) Inc., Santa Monica, CA {\em (2006-2012)}
   %\item Heavy emphasis on workflow iteration to improve developer
   %  efficiency.
   \item Project owner of a hypervisor-based OS introspection module
-    (Patent WO2011163146A1). Runtime configurable to collect function
+    (Patented). Runtime configurable to collect function
     calls (kernel, syscall or userland) and packets on 100\%
     unmodified virtual machines.
   \item Project owner of a real-time OS analysis engine supported by a
-    custom graph-based simulation database (Patent WO2011163148A1).
+    custom graph-based simulation database (Patented).
   %% \item Project owner of a high-performance multi-threaded daemon
   %%   responsible for serving both atomic and persistent
   %%   publish/subscribe requests for analysis data.
-  \item Project owner of a dynamically-sizeable buffering library
-    providing in-memory, and file-backed buffers for streaming
-    data between threads or processes.
+  %% \item Project owner of a dynamically-sizeable buffering library
+  %%   providing in-memory, and file-backed buffers for streaming
+  %%   data between threads or processes.
   %% \item Project owner of a file caching library designed for
   %%   high-performance random access (\string~8x faster than {\em
   %%     lseek() + read()}) and sequential writing (\string~2x faster
@@ -143,7 +146,15 @@ CounterTack (formerly NeuralIQ) Inc., Santa Monica, CA {\em (2006-2012)}
 %  \item Flash website creation. {\it Example at http://www.rgt.com.au/dave/newgen2.html}
 %\end{itemize}
 
-
+\section{PATENTS}
+ Low Latency Video Streaming Via A Distributed Key-Value Store 20190394512 A1
+ Optimized Message Flooding Across Nodes Of A Distributed Platform: 20190149460 A1
+ Rapid Configuration Propagation In A Distributed Multi-Tenant Platform: 20190081862 A1
+ Distributed Rate Limiting: 20170180414 A1
+ Unobtrusive And Dynamic DDoS Mitigation: 20160344765 A1
+ Real-Time Reconfigurable Web Application Firewall For A Distributed Platform: 20160182454 A1
+ System And Method For Sampling Forensic Data Of Unauthorized Activities Using Executability States: 20110321165 A1
+ System And Method For Identifying Unauthorized Activities On A Computer System Using A Data Structure Model: 20110321166 A1
 \section{EDUCATION}
 
 {\bf Doctorate of Philosophy.} \\
